@@ -2,7 +2,6 @@
 
 A modern, production-ready full-stack e-commerce web application for an eyeglasses brand. Built with Next.js, React, TypeScript, and Tailwind CSS, it delivers a smooth, responsive, and visually appealing shopping experience.
 🚀 Live Demo: https://e-commerce-react-app-murex.vercel.app
-💻 Local Dev: http://localhost:3000
 
 ## Overview
 
